@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>입력폼</title>
+  <style>
+  fieldset{	
+		width:400px;
+		height:300px;
+		}
+  </style>
+ </head>
+ <body>
+ <form method=post action="input_result.php">
+ <center>
+ <fieldset>
+	<legend>게시글작성</legend>
+	<table>
+		<tr>
+			<td>작성자</td>
+			<td><input type="text" name="writer" required></input></td>
+		</tr>
+		<tr>
+			<td>이메일</td>
+			<td><input type="email" name="email" required></input></td>
+		</tr>
+		<tr>
+			<td>제목</td>
+			<td><input type="text" name="title" required></input></td>
+		</tr>
+		<tr>
+			<td>내용</td>
+			<td><textarea cols=40 rows=10 name="content" required></textarea></td>
+		</tr>
+		<tr>
+			<td>비밀번호</td>
+			<td><input type="password" name="password" required></input></td>
+		</tr>
+
+		</table>
+	</fieldset>
+	<input type="submit" value="등록"></input>
+	<a href="list.php">게시글보기</a>
+		
+		
+  </center>
+  </form>
+ </body>
+
+</html>

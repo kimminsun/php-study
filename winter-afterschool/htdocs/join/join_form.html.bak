@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>join_form</title>
+  <style>
+  body{
+		background-color:#ffccff;
+
+	}
+  table{
+	background-color:white;
+	width:400px;
+	height:400px;
+	}
+	fieldset{
+	background-color:white;
+		width:450px;
+		height:450px;
+		}
+	legend{
+		font-size:15pt;
+		}
+		a:link {font-size:9pt;color:white;
+				text-decoration:none;}
+	a:visited {font-size:9pt;
+				color:white;
+				text-decoration:none;}
+	a:hover{ font-size:9pt;
+				color:red;
+				text-decoration:underline;}
+	a:active{ font-size:9pt;
+				color:red;
+				text-decoration:underline;}
+
+  </style>
+ </head>
+ <body>
+	<form method=post action="join_result.php">
+	<center>
+	<fieldset>
+		<legend>회원가입</legend>
+		<table border cellpadding="3" cellspacing="0">
+			<tr>
+				<td>아이디</td>
+				<td><input type="text" name="user_id"></input></td>
+			</tr>
+			<tr>
+				<td>이름</td>
+				<td><input type="text" name="user_name"></input></td>
+			</tr>
+			<tr>
+				<td>비밀번호</td>
+				<td><input type="password" name="passwd"></input></td>
+			</tr>
+			<tr>
+				<td>비밀번호 확인</td>
+				<td><input type="password" name="passwd_check"></input></td>
+			</tr>
+			<tr>
+				<td>성별</td>
+				<td>
+				<input type="radio" name="gender" value="남자">남</input>
+				<input type="radio" name="gender" value="여자">여</input>
+				</td>
+			</tr>
+			<tr>
+				<td>취미</td>
+				<td>
+				<input type="checkbox" name="hobby" value="수영">수영</input>
+				<input type="checkbox" name="hobby" value="독서">독서</input>
+				<input type="checkbox" name="hobby" value="등산">등산</input>
+				<input type="checkbox" name="hobby" value="여행">여행</input>
+				</td>
+			</tr>
+			<tr>
+				<td>직업</td>
+				<td>
+				<select name="job">
+					<option value="학생">학생</option>
+					<option value="무직">무직</option>
+					<option value="공무원">공무원</option>
+				</td>
+			</tr>
+			<tr>
+				<td>전화번호</td>
+				<td><input type="text" name="hp"></input>
+			</tr>
+			<tr>
+				<td>이메일</td>
+				<td><input type="email" name="email"></input>
+			</tr>
+
+			</table>
+			<input type="submit" value="회원가입"></input>
+			
+		
+	</fieldset>
+	<a href="list.php">회원명단보기</a>
+	</center>
+
+
+
+
+
+
+	</form>
+  
+ </body>
+</html>

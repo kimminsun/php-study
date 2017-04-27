@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+	fieldset{
+		background-color:white;
+		width:380px;
+		height:180px;
+		border-right:white;
+		border-left:white;
+		border-top: black solid 3px;
+		border-bottom:black solid 3px;
+		}
+	input[type=submit] {
+    width: 5em;  height: 3.5em;
+	background-color:black;
+	color:white;
+	}
+	body{
+		background-color:#b6b6b6;
+		font-size:11pt;
+		font-family:돋움;
+		}
+	#a{
+		text-align:right;
+
+		}
+	input[type=button]{
+		background-color:white;
+		color:black;
+		}
+	
+  </style>
+ </head>
+ <body>
+ <form method="post" action="login.php">
+ <br><br><br>
+ <center>
+ <fieldset>
+ <br><br>
+	<table>
+		<tr>
+			<td>회원아이디</td>
+			<td><input type="text" name="id"></td>
+			<td rowspan=2><input type="submit" width="100px" value="로그인"></td>
+		</tr>
+		<tr>
+			<td>비밀번호</td>
+			<td><input type="password" name="password"></td>
+		</tr>
+	</table>
+	<br>
+	<table>
+	<tr>
+		<td>아직 회원이 아니신가요?</td>
+		<td><a href="join_form.html"><input type="button" value="회원가입"></input></a></td>
+	</tr>
+	<tr>
+		<td>아이디/비빌번호를 잊으셨나요?</td>
+		<td><a href="search.php"><input type="button" value="회원정보찾기" id="a"></input></a></td> 
+	</tr>
+	</table>
+</fieldset>
+</center>
+</form>
+ </body>
+</html>

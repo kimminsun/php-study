@@ -1,0 +1,207 @@
+[Mon Jan 02 09:37:55 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Mon Jan 02 09:37:55 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Mon Jan 02 09:37:55 2017] [notice] Parent: Created child process 8440
+[Mon Jan 02 09:37:57 2017] [notice] Child 8440: Child process is running
+[Mon Jan 02 09:37:57 2017] [notice] Child 8440: Acquired the start mutex.
+[Mon Jan 02 09:37:57 2017] [notice] Child 8440: Starting 150 worker threads.
+[Mon Jan 02 09:37:57 2017] [notice] Child 8440: Starting thread to listen on port 80.
+[Mon Jan 02 09:49:28 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://127.0.0.1/
+[Mon Jan 02 10:19:36 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://localhost/html5/h0102_1.html
+[Mon Jan 02 11:18:12 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/html5/img/img9.jpg, referer: http://localhost/html5/h0102_5.html
+[Mon Jan 02 13:17:06 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/html5/justhis, referer: http://localhost/html5/h0102_8.html
+[Mon Jan 02 13:17:38 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/html5/img/JCole.jpg, referer: http://localhost/html5/h0102_8.html
+[Mon Jan 02 13:17:38 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/html5/img/JCole.jpg, referer: http://localhost/html5/h0102_8.html
+[Mon Jan 02 13:17:38 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/html5/img/JCole.jpg, referer: http://localhost/html5/h0102_8.html
+[Tue Jan 03 09:11:20 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://localhost/css/0103_1.html
+[Tue Jan 03 10:07:20 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/css/0103_3.html' not found or unable to stat
+[Tue Jan 03 10:36:08 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/css/0103_45.html' not found or unable to stat
+[Tue Jan 03 10:48:09 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/css/img, referer: http://localhost/css/0103_6.html
+[Tue Jan 03 11:05:27 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/css/..img, referer: http://localhost/css/0103_6.html
+[Tue Jan 03 11:05:29 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/css/..img, referer: http://localhost/css/0103_6.html
+[Wed Jan 04 09:14:17 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://localhost/css/0103_11.html
+[Wed Jan 04 09:14:43 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/css/write.html' not found or unable to stat
+[Thu Jan 05 09:07:59 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 05 09:08:05 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Thu Jan 05 09:08:05 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Thu Jan 05 09:08:05 2017] [notice] Parent: Created child process 6352
+[Thu Jan 05 09:08:07 2017] [notice] Child 6352: Child process is running
+[Thu Jan 05 09:08:07 2017] [notice] Child 6352: Acquired the start mutex.
+[Thu Jan 05 09:08:07 2017] [notice] Child 6352: Starting 150 worker threads.
+[Thu Jan 05 09:08:07 2017] [notice] Child 6352: Starting thread to listen on port 80.
+[Thu Jan 05 09:21:30 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 05 09:21:38 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Thu Jan 05 09:21:38 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Thu Jan 05 09:21:38 2017] [notice] Parent: Created child process 120
+[Thu Jan 05 09:21:41 2017] [notice] Child 120: Child process is running
+[Thu Jan 05 09:21:41 2017] [notice] Child 120: Acquired the start mutex.
+[Thu Jan 05 09:21:41 2017] [notice] Child 120: Starting 150 worker threads.
+[Thu Jan 05 09:21:41 2017] [notice] Child 120: Starting thread to listen on port 80.
+[Thu Jan 05 11:14:55 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/php/0105.php' not found or unable to stat
+[Thu Jan 05 11:14:56 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://localhost/php/0105.php
+[Thu Jan 05 22:02:53 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/ng
+[Fri Jan 06 09:17:02 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://localhost/php/0106_1.html
+[Sun Jan 08 21:33:53 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 08 21:34:02 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Sun Jan 08 21:34:02 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Sun Jan 08 21:34:02 2017] [notice] Parent: Created child process 6240
+[Sun Jan 08 21:34:05 2017] [notice] Child 6240: Child process is running
+[Sun Jan 08 21:34:05 2017] [notice] Child 6240: Acquired the start mutex.
+[Sun Jan 08 21:34:05 2017] [notice] Child 6240: Starting 150 worker threads.
+[Sun Jan 08 21:34:05 2017] [notice] Child 6240: Starting thread to listen on port 80.
+[Sun Jan 08 21:50:42 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/ng
+[Sun Jan 08 21:54:27 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/ng
+[Sun Jan 08 22:03:38 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 08 22:03:47 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Sun Jan 08 22:03:47 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Sun Jan 08 22:03:47 2017] [notice] Parent: Created child process 1908
+[Sun Jan 08 22:03:49 2017] [notice] Child 1908: Child process is running
+[Sun Jan 08 22:03:49 2017] [notice] Child 1908: Acquired the start mutex.
+[Sun Jan 08 22:03:49 2017] [notice] Child 1908: Starting 150 worker threads.
+[Sun Jan 08 22:03:49 2017] [notice] Child 1908: Starting thread to listen on port 80.
+[Sun Jan 08 22:07:45 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/ng
+[Sun Jan 08 22:17:21 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/ng
+[Mon Jan 09 09:19:32 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://localhost/php/0109_1.php
+[Mon Jan 09 09:43:53 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/join/join_result, referer: http://localhost/join/join_form.html
+[Mon Jan 09 09:44:51 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/join/join_result, referer: http://localhost/join/join_form.html
+[Mon Jan 09 09:50:31 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/img/back.jpg, referer: http://localhost/join/join_form.html
+[Mon Jan 09 10:48:44 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/join/join_result, referer: http://localhost/join/join_form.html
+[Mon Jan 09 10:49:04 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/join/join_result, referer: http://localhost/join/join_form.html
+[Mon Jan 09 10:49:16 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/join/join_result, referer: http://localhost/join/join_form.html
+[Tue Jan 10 09:13:48 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://localhost/join/join_form.html
+[Tue Jan 10 11:36:54 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/join/join_form.php' not found or unable to stat
+[Tue Jan 10 11:42:21 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/join/list2.php' not found or unable to stat, referer: http://localhost/join/delete.php?aa=10
+[Tue Jan 10 11:42:36 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/join/list2.php' not found or unable to stat, referer: http://localhost/join/delete.php?aa=10
+[Tue Jan 10 13:54:55 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/join/update.php' not found or unable to stat, referer: http://localhost/join/update_form.php?a=13
+[Wed Jan 11 09:13:43 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://localhost/guest/guest_form.html
+[Wed Jan 11 09:53:36 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/guest/update_form.php' not found or unable to stat, referer: http://localhost/guest/list.php
+[Wed Jan 11 10:34:24 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/guest/result.php' not found or unable to stat, referer: http://localhost/guest/list.php
+[Wed Jan 11 10:35:12 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/guest/result.php' not found or unable to stat, referer: http://localhost/guest/list.php
+[Wed Jan 11 10:50:11 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/guest/result.php' not found or unable to stat, referer: http://localhost/guest/list.php
+[Wed Jan 11 10:50:45 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/guest/result.php' not found or unable to stat, referer: http://localhost/guest/list.php
+[Wed Jan 11 10:50:46 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/guest/result.php' not found or unable to stat, referer: http://localhost/guest/list.php
+[Wed Jan 11 13:27:43 2017] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /guest/'%3Cscript%3Ehistory.go(-1);%3C/script%3E' HTTP/1.1 to file, referer: http://localhost/guest/read.php?a=1
+[Wed Jan 11 14:12:27 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/guest/search.php' not found or unable to stat, referer: http://localhost/guest/list.php
+httpd.exe: Syntax error on line 60 of C:/APM_Setup/Server/Apache/conf/httpd.conf: Cannot load C:/APM_Setup/Server/Apache/modules/mod_actions.so into server: \xbe\xb2\xb1\xe2 \xb9\xe6\xc1\xf6\xb5\xc8 \xb9\xcc\xb5\xf0\xbe\xee\xc0\xd4\xb4\xcf\xb4\xd9.  
+[Wed Jan 11 21:24:46 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 11 21:24:52 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Wed Jan 11 21:24:52 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Wed Jan 11 21:24:52 2017] [notice] Parent: Created child process 1740
+[Wed Jan 11 21:24:54 2017] [notice] Child 1740: Child process is running
+[Wed Jan 11 21:24:54 2017] [notice] Child 1740: Acquired the start mutex.
+[Wed Jan 11 21:24:54 2017] [notice] Child 1740: Starting 150 worker threads.
+[Wed Jan 11 21:24:54 2017] [notice] Child 1740: Starting thread to listen on port 80.
+[Thu Jan 12 09:10:11 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://localhost/login/login_form.html
+[Thu Jan 12 09:27:02 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/login/list.php' not found or unable to stat, referer: http://localhost/login/join_form.html
+[Thu Jan 12 09:29:45 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/login/login.php' not found or unable to stat, referer: http://localhost/login/login_form.html
+[Thu Jan 12 11:22:09 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/login/list.php' not found or unable to stat, referer: http://localhost/login/join_form.html
+[Thu Jan 12 13:19:26 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/gallery/gallery.php' not found or unable to stat, referer: http://localhost/gallery/input_form.html
+[Thu Jan 12 14:00:44 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/gallery/view.php' not found or unable to stat, referer: http://localhost/gallery/show.php
+[Thu Jan 12 14:00:44 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/gallery/view.php' not found or unable to stat, referer: http://localhost/gallery/show.php
+[Thu Jan 12 14:00:44 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/gallery/view.php' not found or unable to stat, referer: http://localhost/gallery/show.php
+[Thu Jan 12 14:00:44 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/gallery/view.php' not found or unable to stat, referer: http://localhost/gallery/show.php
+[Thu Jan 12 14:00:44 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/gallery/view.php' not found or unable to stat, referer: http://localhost/gallery/show.php
+[Thu Jan 12 14:04:32 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/gallery/view.php' not found or unable to stat, referer: http://localhost/gallery/show.php
+[Thu Jan 12 14:04:32 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/gallery/view.php' not found or unable to stat, referer: http://localhost/gallery/show.php
+[Thu Jan 12 14:04:32 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/gallery/view.php' not found or unable to stat, referer: http://localhost/gallery/show.php
+[Thu Jan 12 14:04:32 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/gallery/view.php' not found or unable to stat, referer: http://localhost/gallery/show.php
+[Thu Jan 12 14:04:32 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/gallery/view.php' not found or unable to stat, referer: http://localhost/gallery/show.php
+[Thu Jan 12 14:04:35 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/gallery/view.php' not found or unable to stat, referer: http://localhost/gallery/show.php
+[Thu Jan 12 14:43:08 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/shopping/shop.html;
+[Thu Jan 12 15:31:05 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/shopping/login_form.html' not found or unable to stat, referer: http://localhost/shopping/shop.html
+[Thu Jan 12 15:31:35 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/shopping/search.php' not found or unable to stat, referer: http://localhost/shopping/login_form.html
+[Thu Jan 12 15:31:37 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/shopping/join_form.html' not found or unable to stat, referer: http://localhost/shopping/login_form.html
+[Thu Jan 12 15:33:40 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/shopping/buy.html' not found or unable to stat, referer: http://localhost/shopping/login.php
+[Thu Jan 12 22:26:03 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://localhost/shopping/shop.html
+[Thu Jan 12 22:31:53 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/shopping/list.php' not found or unable to stat, referer: http://localhost/shopping/join_form.html
+[Fri Jan 13 08:23:53 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://localhost/shopping/shop.html
+[Fri Jan 13 09:44:26 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/shopping/shop_.php' not found or unable to stat
+[Fri Jan 13 09:44:33 2017] [error] [client 127.0.0.1] script 'C:/APM_Setup/htdocs/shopping/shop.php' not found or unable to stat
+[Sat Jan 14 10:11:46 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/ng
+[Sat Jan 14 11:31:55 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/ng
+[Sat Jan 14 22:16:37 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 14 22:16:48 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Sat Jan 14 22:16:48 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Sat Jan 14 22:16:48 2017] [notice] Parent: Created child process 6260
+[Sat Jan 14 22:16:51 2017] [notice] Child 6260: Child process is running
+[Sat Jan 14 22:16:51 2017] [notice] Child 6260: Acquired the start mutex.
+[Sat Jan 14 22:16:51 2017] [notice] Child 6260: Starting 150 worker threads.
+[Sat Jan 14 22:16:51 2017] [notice] Child 6260: Starting thread to listen on port 80.
+[Sun Jan 15 13:51:07 2017] [error] [client 127.0.0.1] File does not exist: C:/APM_Setup/htdocs/favicon.ico, referer: http://localhost/shopping/shop.html
+[Sun Jan 15 15:07:56 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 15 15:08:03 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Sun Jan 15 15:08:03 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Sun Jan 15 15:08:03 2017] [notice] Parent: Created child process 6828
+[Sun Jan 15 15:08:06 2017] [notice] Child 6828: Child process is running
+[Sun Jan 15 15:08:06 2017] [notice] Child 6828: Acquired the start mutex.
+[Sun Jan 15 15:08:06 2017] [notice] Child 6828: Starting 150 worker threads.
+[Sun Jan 15 15:08:06 2017] [notice] Child 6828: Starting thread to listen on port 80.
+[Tue Jan 17 10:40:05 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 17 10:40:15 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Tue Jan 17 10:40:15 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Tue Jan 17 10:40:15 2017] [notice] Parent: Created child process 1996
+[Tue Jan 17 10:40:17 2017] [notice] Child 1996: Child process is running
+[Tue Jan 17 10:40:17 2017] [notice] Child 1996: Acquired the start mutex.
+[Tue Jan 17 10:40:17 2017] [notice] Child 1996: Starting 150 worker threads.
+[Tue Jan 17 10:40:17 2017] [notice] Child 1996: Starting thread to listen on port 80.
+[Tue Jan 17 11:32:38 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 17 11:32:50 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Tue Jan 17 11:32:50 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Tue Jan 17 11:32:50 2017] [notice] Parent: Created child process 708
+[Tue Jan 17 11:32:53 2017] [notice] Child 708: Child process is running
+[Tue Jan 17 11:32:53 2017] [notice] Child 708: Acquired the start mutex.
+[Tue Jan 17 11:32:53 2017] [notice] Child 708: Starting 150 worker threads.
+[Tue Jan 17 11:32:53 2017] [notice] Child 708: Starting thread to listen on port 80.
+[Tue Jan 17 11:34:52 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 17 11:35:05 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Tue Jan 17 11:35:05 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Tue Jan 17 11:35:05 2017] [notice] Parent: Created child process 6164
+[Tue Jan 17 11:35:07 2017] [notice] Child 6164: Child process is running
+[Tue Jan 17 11:35:07 2017] [notice] Child 6164: Acquired the start mutex.
+[Tue Jan 17 11:35:07 2017] [notice] Child 6164: Starting 150 worker threads.
+[Tue Jan 17 11:35:07 2017] [notice] Child 6164: Starting thread to listen on port 80.
+[Sun Jan 22 12:03:26 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 22 12:03:34 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Sun Jan 22 12:03:34 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Sun Jan 22 12:03:34 2017] [notice] Parent: Created child process 6424
+[Sun Jan 22 12:03:37 2017] [notice] Child 6424: Child process is running
+[Sun Jan 22 12:03:37 2017] [notice] Child 6424: Acquired the start mutex.
+[Sun Jan 22 12:03:37 2017] [notice] Child 6424: Starting 150 worker threads.
+[Sun Jan 22 12:03:37 2017] [notice] Child 6424: Starting thread to listen on port 80.
+[Wed Feb 01 10:15:24 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 01 10:15:34 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Wed Feb 01 10:15:34 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Wed Feb 01 10:15:34 2017] [notice] Parent: Created child process 5548
+[Wed Feb 01 10:15:37 2017] [notice] Child 5548: Child process is running
+[Wed Feb 01 10:15:37 2017] [notice] Child 5548: Acquired the start mutex.
+[Wed Feb 01 10:15:37 2017] [notice] Child 5548: Starting 150 worker threads.
+[Wed Feb 01 10:15:37 2017] [notice] Child 5548: Starting thread to listen on port 80.
+[Tue Feb 07 20:25:20 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 07 20:25:36 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Tue Feb 07 20:25:36 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Tue Feb 07 20:25:36 2017] [notice] Parent: Created child process 4996
+[Tue Feb 07 20:25:38 2017] [notice] Child 4996: Child process is running
+[Tue Feb 07 20:25:38 2017] [notice] Child 4996: Acquired the start mutex.
+[Tue Feb 07 20:25:38 2017] [notice] Child 4996: Starting 150 worker threads.
+[Tue Feb 07 20:25:38 2017] [notice] Child 4996: Starting thread to listen on port 80.
+[Thu Feb 09 17:32:14 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 09 17:32:25 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Thu Feb 09 17:32:25 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Thu Feb 09 17:32:25 2017] [notice] Parent: Created child process 916
+[Thu Feb 09 17:32:27 2017] [notice] Child 916: Child process is running
+[Thu Feb 09 17:32:27 2017] [notice] Child 916: Acquired the start mutex.
+[Thu Feb 09 17:32:27 2017] [notice] Child 916: Starting 150 worker threads.
+[Thu Feb 09 17:32:27 2017] [notice] Child 916: Starting thread to listen on port 80.
+[Thu Feb 23 21:55:29 2017] [warn] pid file C:/APM_Setup/Server/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 23 21:55:43 2017] [notice] Apache/2.2.14 (Win32) configured -- resuming normal operations
+[Thu Feb 23 21:55:43 2017] [notice] Server built: Sep 29 2009 19:29:00
+[Thu Feb 23 21:55:43 2017] [notice] Parent: Created child process 6604
+[Thu Feb 23 21:55:45 2017] [notice] Child 6604: Child process is running
+[Thu Feb 23 21:55:45 2017] [notice] Child 6604: Acquired the start mutex.
+[Thu Feb 23 21:55:45 2017] [notice] Child 6604: Starting 150 worker threads.
+[Thu Feb 23 21:55:45 2017] [notice] Child 6604: Starting thread to listen on port 80.
+[Thu Feb 23 22:07:08 2017] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Feb 23 22:07:08 2017] [notice] Child 6604: Exit event signaled. Child process is ending.
+[Thu Feb 23 22:07:09 2017] [notice] Child 6604: Released the start mutex
+[Thu Feb 23 22:07:10 2017] [notice] Child 6604: All worker threads have exited.
+[Thu Feb 23 22:07:15 2017] [notice] Child 6604: Child process is exiting
+[Thu Feb 23 22:07:16 2017] [notice] Parent: Child process exited successfully.

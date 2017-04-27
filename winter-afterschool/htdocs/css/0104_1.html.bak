@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+  </style>
+ </head>
+ <body>
+ <center>
+<td>
+  <table>
+	<tr>
+		<td  align="center">이름<input type="text"><br>
+		비밀번호<input type="password"><br>
+		제목<input type="text"></td>
+	</tr>
+  </table>
+  <textarea cols=60 rows=15></textarea><br>
+  파일<input type="file"></input><br><br>
+  <input type="submit">등록</input><input type="button" value="리셋"></input>
+</td>
+</center>
+ </body>
+</html>

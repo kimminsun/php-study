@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+  div{
+	text-align:right;
+	}
+  body{
+	background-color:#ababab;
+	}
+
+
+  		a:link {font-size:11pt;color:white;
+				text-decoration:none;}
+	a:visited {font-size:11pt;
+				color:white;
+				text-decoration:none;}
+	a:hover{ font-size:11pt;
+				color:red;
+				text-decoration:underline;}
+	a:active{ font-size:11pt;
+				color:red;
+				text-decoration:underline;}
+	fieldset{
+		width:1000px;
+		background-color:white;
+		}
+	input[type=submit]{
+		width:5em;
+		height:4em;
+		background-color:black;
+		color:white;
+
+		}
+  </style>
+ </head>
+ <center>
+ <form method="post" action="login_form.html">
+ <body>
+ <div><a href="login_form.html">[로그인]</a><a href="join_form.html">[회원가입]</a></div>
+   <fieldset>
+  <table>
+
+  <tr value="1" name="gallant">
+	<td>1</td>
+	<td><input type="image" src="image/gallant.jpg"></td>
+	<td>[음반][수입]Gallant-Ology<br>
+	갈란트(Gallant) | 워너뮤직(WEA) | 2016년 8월<br>
+	18,800원 
+	</td>
+	<td>
+	<input type="submit" value="바로구매"></input>
+  </tr>
+  <tr>
+	<td>2</td>
+	<td><input type="image" src="image/lalaland.jpg"></td>
+	<td>[음반] 라라랜드 O.S.T<br>
+	라이언 고슬링,존 레전드(John Legend),엠마 스톤,저스틴 허위츠(Justin<br>
+	Hurwitz) | 유니버설(Universal) | 2016년 12월<br>
+	17,600원
+	</td>
+	<td>
+	<input type="submit" value="바로구매"></input>
+	</td>
+</tr>
+<tr name="Drake">
+	<td>3</td>
+	<td><input type="image" src="image/drake.jpg"></td>
+	<td>[음반]Drake - If You're Reading This It's Too Late<br>
+	드레이크(Drake) | 유니버설 (Universal) | 2015년 5월
+	17,600원
+	</td>
+	<td>
+	<input type="submit" value="바로구매"></input>
+	</td>
+</tr>
+<tr name="midnight">
+	<td>4</td>
+	<td><input type="image" src="image/midnight.jpg"></td>
+	<td>[음반]미드나잇 인 파리 O.S.T<br>
+	시드니 베쳇(Sidney Bechet) | 2012년 11월
+	16,000원
+	</td>
+	<td>
+	<input type="submit" value="바로구매"></input>
+	</td>
+</tr>
+</table>
+</fieldset>
+ </body>
+ </center>
+ </form>
+</html>

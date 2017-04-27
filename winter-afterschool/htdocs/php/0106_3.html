@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>회원가입</title>
+  <style>
+  body{
+	font-family:돋움;
+	font-size:9pt;
+
+
+  }
+  fieldset{
+		width:500px;
+		background-color:#ffffff;
+
+  }
+
+  legend{
+	text-align:center;
+	font-weight:bold;
+	font-family:굴림;
+	font-size:15pt;
+	background-color:#ffcccc;
+	}
+
+ #a{
+	background-color:#ffcccc;
+	text-align:center;
+	}
+	table{
+	border-right-color:white;
+	}
+
+  </style>
+ </head>
+ <body>
+  <form method=post action="0106_3.php">
+  <center>
+	<fieldset>
+		<legend>회원가입</legend>
+		
+		<table border cellpadding=3 cellspacing=0>
+			<tr>
+				<td id="a">ID</td>
+				<td><input type="text" name="id" required></td>
+			</tr>
+			<tr>
+				<td rowspan="2" id="a">PW확인</td>
+				<td><input type="password" name="passwd" required></td>
+			</tr>
+			<tr>
+				<td><input type="password" name="repasswd" required></td>
+			</tr>
+			<tr>
+				<td id="a">성별</td>
+				<td><input type="radio" name="radio" value="man" required>남</input><input type="radio" name="radio" value="woman" required>여</input></td>
+			</tr>
+			<tr>
+				<td id="a">취미</td>
+				<td><input type="checkbox" name="chk" value="1" >운동</input><input type="checkbox" name="chk" value="2">여행</input>
+				<input type="checkbox" name="chk" value="3">독서</input></td>
+			</tr>
+			<tr>
+				<td id="a">생일</td>
+				<td><input type="text" name="birth" placeholder="연도-월-일" required></input>
+			</tr>
+			<tr>
+				<td id="a">나이</td>
+				<td><input type="text" name="age" required></input></td>
+			</tr>
+			<tr>
+				<td id="a">이메일</td>
+				<td><input type="text" name="email" required></input>
+				
+				<select name="select" required>
+				<option value="naver.com" >naver.com</option>
+				<option value="daum.net" >daum.net</option>
+				</select>
+
+				</td>
+			</tr>
+
+			<tr>
+				<td id="a" >메모</td>
+				<td><textarea rows="10" cols="50" name="memo" required></textarea></td>
+			<tr>
+				<td colspan="2"><input type="submit" value="signin"></input>
+								<input type="button" value="reset"></input>
+				</td>
+			</tr>
+
+			</fieldset>
+		</center>
+			
+ </body>
+</html>

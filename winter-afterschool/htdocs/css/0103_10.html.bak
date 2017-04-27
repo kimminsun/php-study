@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+  body{
+	font-size:9pt;
+	font-family:돋움;
+
+  }
+table{
+	width:450px;
+	}
+a{
+	width:400px;
+
+}
+td{
+ height:30px;
+ background-color:#ffffff;
+ }
+  </style>
+ </head>
+ <body>
+ <center>
+  <table border cellpadding=0 cellspacing=0>
+	<tr>
+		<td><input type="text" size="65" style="width=100%" placeholder="아이디"   required ></input></td>
+	</tr>
+	<tr>
+		<td><input type="password" size="65" style="width=100%" placeholder="비밀번호"required></input></td>
+	</tr>
+	<tr>
+		<td><input type="password"size="65" style="width=100%"placeholder="비밀번호 재확인" required></input></td>
+	</tr>
+
+</table>
+<br>
+<table border cellpadding=3 cellspacing=0>
+	<tr>
+		<td><input type="text" size="65" style="width=100%" placeholder="이름" required></input></td>
+	</tr>
+	<tr>
+		<td><input type="button" value="남자" style="width:165pt"><input type="button" value="여자" style="width:165pt"></td>
+	</tr>
+	<tr>
+	<td>생일<input type="text" placeholder="년(4자)" required></input>
+	<select>
+		<option value="1월">1월</option>
+		<option value="2월">2월</option>
+		<option value="3월">3월</option>
+		<option value="4월">4월</option>
+		<option value="5월">5월</option>
+		<option value="6월">6월</option>
+		<option value="7월">7월</option>
+		<option value="8월">8월</option>
+		<option value="9월">9월</option>
+		<option value="10월">10월</option>
+		<option value="11월">11월</option>
+		<option value="12월">12월</option>
+
+	<input type="text" placeholder="일" required></input>
+	</td>
+	<tr>
+		<td><input type="text" size="65" style="width=100%" placeholder="비상연락용 이메일" required></input></td>
+	</tr>
+	
+</table>
+<br>
+<table border cellpadding=3 cellspacing=0>
+	<tr>
+		<td><input type="text"size="55" style="width=100%" placeholder="휴대전화번호"required></input><input type="button" value="인증"></input></td>
+	</tr>
+	<tr>
+		<td><input type="text" size="55" style="width=100%"placeholder="인증번호"required></input><input type="button" value="확인"></input></td>
+	</tr>
+
+</table><br>
+<input type="submit" value="가입하기" style="width:320pt"></input>
+
+
+
+
+
+
+</center>
+ </body>
+</html>

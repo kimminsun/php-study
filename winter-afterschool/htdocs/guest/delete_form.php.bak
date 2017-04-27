@@ -1,0 +1,14 @@
+<style>
+fieldset{
+	width:400px;
+	height:200px;
+}
+</style>
+<center>
+<fieldset>
+<br><br>↓비밀번호를 입력하세요↓<br><br>
+	<input type="password" name="pass"></input><br><br>
+	<input type="submit" value="확인"></input>
+
+</fieldset>
+</center>
